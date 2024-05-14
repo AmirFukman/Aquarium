@@ -23,17 +23,17 @@ To run the Aquarium program locally, follow these steps:
 1. Ensure you have Java Development Kit (JDK) installed on your system.
 2. Clone this repository to your local machine:
 
-```java
+```bash
 git clone https://github.com/AmirFukman/Aquarium.git
 cd aquarium
 ```
 3. Compile the Java source files
 
-```java
+```bash
 javac *.java
 ```
 4. Run the main application:
-```java
+```bash
 java AquariumMain
 ```
 ## Usage
