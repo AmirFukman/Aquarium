@@ -17,25 +17,7 @@ Aquarium is a simple object-oriented programming (OOP) Java project developed du
 * Design Patterns: Utilized various design patterns to enhance code modularity and maintainability.
 * Multi-Threading: Implemented multi-threading to simulate concurrent fish behavior within the aquarium.
 
-## Getting Started
-To run the Aquarium program locally, follow these steps:
 
-1. Ensure you have Java Development Kit (JDK) installed on your system.
-2. Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/AmirFukman/Aquarium.git
-cd aquarium
-```
-3. Compile the Java source files
-
-```bash
-javac *.java
-```
-4. Run the main application:
-```bash
-java AquariumMain
-```
 ## Usage
 * Upon launching the Aquarium program, you will be presented with a program window simulating an aquarium environment.
 * Use the provided options to interact with the aquarium, including adding fishes, feeding them, and accessing information about individual fishes.
